@@ -1,0 +1,6 @@
+{
+  "name": "Kafkaproducer",
+  "tagline": "Send events to a kafka topic",
+  "body": "### Welcome to GitHub Pages.\r\nThis simply a Kafka producer that reads from a file and send it to a Kafka topic.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
